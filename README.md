@@ -1,5 +1,7 @@
 # Hexagonal 2048
 
+### Projects code is not visible because of integrity and privacy of "CodeScreen" assessments.
+
 - This project represents "2048" game on hexagonal canvas. 
 - Also this project has possibility to select a game level via radius option.
 - To play this game you should use your keyboard keys (q,w,e,a,s,d).
